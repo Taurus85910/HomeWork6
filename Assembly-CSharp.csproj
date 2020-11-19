@@ -63,11 +63,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\CreateRobber.cs" />
-    <Compile Include="Assets\DeleteRobbers.cs" />
-    <Compile Include="Assets\GoWay.cs" />
-    <Compile Include="Assets\Robber.cs" />
-    <Compile Include="Assets\TimerCreate.cs" />
+    <Compile Include="Assets\Scripts\CreatingRobber.cs" />
+    <Compile Include="Assets\Scripts\DeletingRobbers.cs" />
+    <Compile Include="Assets\Scripts\MovementWay.cs" />
+    <Compile Include="Assets\Scripts\Robber.cs" />
+    <Compile Include="Assets\Scripts\TimerCreate.cs" />
     <Reference Include="UnityEngine">
       <HintPath>G:/Un/2019.4.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
