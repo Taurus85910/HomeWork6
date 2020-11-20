@@ -9,7 +9,6 @@ public class CreatingRobber : MonoBehaviour
 
     public void Spawn()
     {
-        Vector3 _position = transform.position;
-        Instantiate(_robber, _position, Quaternion.identity);
+        Instantiate(_robber, transform.position, Quaternion.identity);
     }
 }
