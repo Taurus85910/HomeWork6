@@ -25,4 +25,10 @@ public class DelayСreation : MonoBehaviour
         } 
         
     }
+<<<<<<< HEAD
+=======
+        
+
+
+>>>>>>> 6c2cf3347d4e884ddffeb931db00a4d4aef00272
 }
