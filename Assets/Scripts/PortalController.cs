@@ -5,11 +5,11 @@ using UnityEngine;
 public class PortalController : MonoBehaviour
 {
     [SerializeField] private float _frequency;
-    private CreateRobber[] _portals;
+    private CreaterRobber[] _portals;
 
     private void Start()
     {
-        _portals = gameObject.GetComponentsInChildren<CreateRobber>();
+        _portals = gameObject.GetComponentsInChildren<CreaterRobber>();
         StartCoroutine(DelayedСreation());
     }
 

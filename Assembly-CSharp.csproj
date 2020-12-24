@@ -63,8 +63,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\CreateRobber.cs" />
-    <Compile Include="Assets\Scripts\DeletingRobbers.cs" />
+    <Compile Include="Assets\Scripts\CreaterRobber.cs" />
+    <Compile Include="Assets\Scripts\DeleterRobbers.cs" />
     <Compile Include="Assets\Scripts\MovementWay.cs" />
     <Compile Include="Assets\Scripts\PortalController.cs" />
     <Compile Include="Assets\Scripts\Robber.cs" />
