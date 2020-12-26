@@ -66,7 +66,7 @@
     <Compile Include="Assets\Scripts\CreaterRobber.cs" />
     <Compile Include="Assets\Scripts\DeleterRobbers.cs" />
     <Compile Include="Assets\Scripts\MovementWay.cs" />
-    <Compile Include="Assets\Scripts\PortalController.cs" />
+    <Compile Include="Assets\Scripts\PortalSpawnManager.cs" />
     <Compile Include="Assets\Scripts\Robber.cs" />
     <Reference Include="UnityEngine">
       <HintPath>G:/Un/2019.4.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

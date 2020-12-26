@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PortalController : MonoBehaviour
+public class PortalSpawnManager : MonoBehaviour
 {
     [SerializeField] private float _frequency;
     private CreaterRobber[] _portals;
